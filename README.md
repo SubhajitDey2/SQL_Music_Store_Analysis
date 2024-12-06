@@ -27,3 +27,12 @@ ________________________________________________________________________________
 
 * SQL: For querying and analyzing the database.
 * DBMS: PostgreSQL, PgAdmin4
+__________________________________________________________________________________________________________________________________________________________________________________________
+
+# Key Insights
+
+* The top-performing artist generated X% of total revenue.
+* Customers had the highest purchase value.
+* Best Customer based city for Promotonal Music Festival.
+* Top 3 Best Customer spent most Money.
+
