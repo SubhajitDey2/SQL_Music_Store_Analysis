@@ -1,4 +1,4 @@
-# SQL Project: Music Store Analysis
+![Updated Photo](https://github.com/SubhajitDey2/SQL_Music_Store_Analysis/blob/main/digitalmusicsql.png)
 # Overview
 This project analyzes data from a fictional music store to gain valuable insights into sales performance, customer behavior, and artist popularity. By leveraging SQL, the project showcases how to extract meaningful patterns and actionable metrics from raw data.
 __________________________________________________________________________________________________________________________________________________________________________________________
